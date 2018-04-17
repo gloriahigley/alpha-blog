@@ -15,3 +15,18 @@ font-size: 1.7em;
   color: #fff;
   text-decoration: none;
 }
+
+.center{
+  text-align: center;
+}
+
+.jumbotron{
+  background-image: asset-url("AlphaBlogImg.jpg");
+  height: 550px;
+}
+
+.jumbotron h1{
+  color: white;
+  font-weight: bold;
+  
+}
